@@ -1,5 +1,5 @@
 
-[![MasterHead](https://learnpython.com/blog/why-is-python-so-popular/why-is-python-so-popular.png)]
+![MasterHead](https://learnpython.com/blog/why-is-python-so-popular/why-is-python-so-popular.png)
 
 
 <h1 align="center">Hi 👋, I'm Jawad Sami Ul Haq</h1>
