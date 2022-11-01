@@ -20,7 +20,7 @@
 
 - 👯 I’m looking to collaborate on **Python**
 
-- 💬 Ask me about **Python,html,css,JavaScipt,Django**
+- 💬 Ask me about **Python,html,css,JavaScript,Django**
 
 - 📫 How to reach me **jawad786sami@gmail.com**
 
