@@ -1,10 +1,10 @@
 <div align="center">
 
-```
+<pre>
 ╔══════════════════════════════════════════════════════╗
 ║         JAWAD SAMI UL HAQ  //  FULL STACK DEV        ║
 ╚══════════════════════════════════════════════════════╝
-```
+</pre>
 
 **Building products with C# · .NET · React · Node.js**  
 *Lahore, Pakistan — open to remote*
