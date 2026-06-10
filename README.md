@@ -20,7 +20,7 @@
 
 ## About Me
 
-Full stack developer with **2+ years of experience** and 20+ delivered projects. I build end-to-end web products — from high-performance .NET and Node.js backends to clean React and Angular frontends. Currently focused on **C# and SQL Server** in production, with a parallel track in data analysis using Python, Pandas, and NumPy.
+Full stack developer with **2+ years of experience** and 10+ delivered projects. I build end-to-end web products — from high-performance .NET and Node.js backends to clean React and Angular frontends. With a parallel track in data analysis using Python, Pandas, and NumPy. Currently focused on **C#, SQL Server and .NET** in production.
 
 > BS Computer Science @ University of Agriculture (UAF) · Freelance available
 
