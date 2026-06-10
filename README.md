@@ -28,13 +28,13 @@ Full stack developer with **2+ years of experience** and 20+ delivered projects.
 
 ## 🚀 Projects
 
-| Project | Description | Tech | Live |
-|---|---|---|---|
-| **Gemini Clone** | Functional AI chat interface replicating Google Gemini's UX | React, API Integration | [↗ Visit](https://gemini-clonee.vercel.app/) |
-| **YouTube Clone** | Full UI clone of YouTube with video browsing | React, CSS | [↗ Visit](https://youtube-clone-coral-mu.vercel.app/) |
-| **UAF CGPA Calculator** | University-specific CGPA tool — standout graduation project | JavaScript, Angular | [↗ Visit](https://jawadsamiulhaq.com/) |
-| **Coffee Shop** | Responsive landing page for a coffee brand | HTML, CSS, Bootstrap | [↗ Visit](https://coffee-website-eta.vercel.app/) |
-| **Calculator App** | Clean, functional calculator with full JS logic | JavaScript, CSS | [↗ Visit](https://calculator-with-java-script.vercel.app/) |
+| Preview | Project | Tech |
+|---|---|---|
+| <a href="https://gemini-clonee.vercel.app/"><img src="https://jawadsamiulhaq.vercel.app/assets/img/portfolio/gemini_ai.jpg" width="180"/></a> | **[Gemini Clone](https://gemini-clonee.vercel.app/)**<br/>Functional AI chat interface replicating Google Gemini's UX | React, API Integration |
+| <a href="https://youtube-clone-coral-mu.vercel.app/"><img src="https://jawadsamiulhaq.vercel.app/assets/img/portfolio/yt.jpg" width="180"/></a> | **[YouTube Clone](https://youtube-clone-coral-mu.vercel.app/)**<br/>Full UI clone of YouTube with video browsing | HTML, CSS |
+| <img src="https://jawadsamiulhaq.vercel.app/assets/img/portfolio/cgpaa.jpg" width="180"/> | **UAF CGPA Calculator**<br/>University-specific CGPA tool — standout graduation project | Angular |
+| <a href="https://coffee-website-eta.vercel.app/"><img src="https://jawadsamiulhaq.vercel.app/assets/img/portfolio/coffee.jpg" width="180"/></a> | **[Coffee Shop](https://coffee-website-eta.vercel.app/)**<br/>Responsive landing page for a coffee brand | HTML, CSS, Bootstrap |
+| <a href="https://calculator-with-java-script.vercel.app/"><img src="https://jawadsamiulhaq.vercel.app/assets/img/portfolio/calculator.jpg" width="180"/></a> | **[Calculator App](https://calculator-with-java-script.vercel.app/)**<br/>Clean, functional calculator with full JS logic | JavaScript, CSS |
 
 ---
 
