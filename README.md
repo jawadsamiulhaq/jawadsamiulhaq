@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:0ea5e9&height=120&section=header&text=Jawad%20Sami%20Ul%20Haq&fontSize=36&fontColor=ffffff&fontAlignY=65&desc=Full%20Stack%20Developer%20%7C%20Pakistan%20%F0%9F%87%B5%F0%9F%87%B0&descSize=14&descAlignY=85" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:0ea5e9&height=160&section=header&text=Jawad%20Sami%20Ul%20Haq&fontSize=36&fontColor=ffffff&fontAlignY=55&desc=Full%20Stack%20Developer%20%7C%20Pakistan&descSize=15&descFontColor=ffffff&descAlignY=75" />
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-jawadsamiulhaq.vercel.app-0ea5e9?style=flat-square&logo=vercel&logoColor=white)](https://jawadsamiulhaq.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Jawad%20Sami-0077b5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/jawad-sami-ul-haq-ab2a44217/)
