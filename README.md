@@ -30,7 +30,7 @@ Full stack developer with **2+ years of experience** and 10+ delivered projects.
 
 | Preview | Project | Tech |
 |---|---|---|
-| <!-- add screenshot: e.g. https://jawadsamiulhaq.vercel.app/assets/img/portfolio/lumina.jpg --> | **[Lumina — Full-Stack Ecommerce](#)**<br/>Production-style ecommerce platform with a full admin dashboard — fully dynamic catalog (zero hardcoded data), Stripe checkout, JWT auth with refresh token rotation, and Framer Motion animations throughout | ASP.NET Core, EF Core, SQL Server, React, TypeScript, Stripe |
+| <a href="#/"><img src="https://github.com/jawadsamiulhaq/jawadsamiulhaq/blob/main/lumina.PNG" width="180"/></a> | **[Lumina — Full-Stack Ecommerce](#)**<br/>Production-style ecommerce platform with a full admin dashboard — fully dynamic catalog (zero hardcoded data), Stripe checkout, JWT auth with refresh token rotation, and Framer Motion animations throughout | ASP.NET Core, EF Core, SQL Server, React, TypeScript, Stripe |
 | <a href="https://gemini-clonee.vercel.app/"><img src="https://jawadsamiulhaq.vercel.app/assets/img/portfolio/gemini_ai.jpg" width="180"/></a> | **[Gemini Clone](https://gemini-clonee.vercel.app/)**<br/>Functional AI chat interface replicating Google Gemini's UX | React, API Integration |
 | <a href="https://youtube-clone-coral-mu.vercel.app/"><img src="https://jawadsamiulhaq.vercel.app/assets/img/portfolio/yt.jpg" width="180"/></a> | **[YouTube Clone](https://youtube-clone-coral-mu.vercel.app/)**<br/>Full UI clone of YouTube with video browsing | HTML, CSS |
 | <img src="https://jawadsamiulhaq.vercel.app/assets/img/portfolio/cgpaa.jpg" width="180"/> | **UAF CGPA Calculator**<br/>University-specific CGPA tool — standout graduation project | Angular |
