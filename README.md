@@ -1,15 +1,15 @@
 <!-- ============================================================
-  JAWAD SAMI UL HAQ — GitHub Profile README
+  JAWAD SAMI UL HAQ — GitHub Profile README  (v2)
   ------------------------------------------------------------
   ARCHITECTURE
-  · Sections are isolated between comment markers — edit one
-    without touching the others.
-  · All personal links/constants are listed once in the LINKS
-    reference below. If a URL changes, search & replace it.
-  · Projects follow ONE repeatable row template (see PROJECTS).
-    To add a project: copy a row, fill 4 fields. Nothing else.
-  · Badges follow one style (flat-square) — change the style
-    once via search & replace to re-theme the whole page.
+  · Sections isolated between ═ comment markers.
+  · All links listed once below — search & replace to update.
+  · Projects follow one row template (see PROJECTS section).
+  · STATS FIX: github-readme-stats.vercel.app is rate-limited
+    and unmaintained. All cards now use the maintained
+    successor github-stats-extended.vercel.app (drop-in
+    compatible). If a card ever breaks again, only the domain
+    in this file needs to change.
   ------------------------------------------------------------
   LINKS (single source of truth)
   · Portfolio : https://jawadsamiulhaq.vercel.app
@@ -19,28 +19,29 @@
 ============================================================ -->
 
 
-<!-- ═══════════════ 1 · HEADER ═══════════════ -->
+<!-- ═══════════════ 1 · ANIMATED HEADER ═══════════════ -->
 
 <div align="center">
 
-# Jawad Sami Ul Haq
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,100:4A00E0&height=200&section=header&text=Jawad%20Sami%20Ul%20Haq&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer&descSize=20&descAlignY=55" width="100%" alt="header"/>
 
-### Full Stack Developer — `.NET` · `React` · `Node.js` · `SQL Server`
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=8E2DE2&center=true&vCenter=true&width=600&lines=.NET+%C2%B7+React+%C2%B7+Node.js+%C2%B7+SQL+Server;Building+end-to-end+web+products;2%2B+years+%C2%B7+10%2B+projects+delivered;Available+for+freelance+work+%F0%9F%9F%A2" alt="typing intro"/>
 
-📍 Sargodha, Pakistan &nbsp;·&nbsp; 🟢 Available for freelance
+<br/><br/>
+
+<a href="https://jawadsamiulhaq.vercel.app/">
+  <img src="https://img.shields.io/badge/Portfolio-jawadsamiulhaq.vercel.app-8E2DE2?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+</a>
+<a href="https://www.linkedin.com/in/jawad-sami-ul-haq-ab2a44217/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="mailto:jawad786sami@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Say%20hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
 
 <br/>
 
-<a href="https://jawadsamiulhaq.vercel.app/">
-  <img src="https://img.shields.io/badge/Portfolio-jawadsamiulhaq.vercel.app-2D3748?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio"/>
-</a>
-<a href="https://www.linkedin.com/in/jawad-sami-ul-haq-ab2a44217/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="mailto:jawad786sami@gmail.com">
-  <img src="https://img.shields.io/badge/Email-jawad786sami@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
-</a>
-<img src="https://komarev.com/ghpvc/?username=jawadsamiulhaq&label=Views&color=2D3748&style=flat-square" alt="Profile views"/>
+<img src="https://komarev.com/ghpvc/?username=jawadsamiulhaq&label=Profile+Views&color=8E2DE2&style=flat-square" alt="Profile views"/>
 
 </div>
 
@@ -49,21 +50,21 @@
 
 <!-- ═══════════════ 2 · ABOUT ═══════════════ -->
 
-## 👨‍💻 About
+## 👨‍💻 About Me
 
 I build end-to-end web products — from high-performance **.NET** and **Node.js** backends to clean **React** and **Angular** frontends — with a parallel track in data analysis using Python, Pandas, and NumPy.
 
 - 🔭 Currently shipping with **C#, .NET & SQL Server** in production
 - 🚀 **2+ years** of experience · **10+** delivered projects
 - 🎓 BS Computer Science — University of Agriculture, Faisalabad (UAF)
+- 📍 Sargodha, Pakistan · 🟢 Open to freelance & full-time
 - 💬 Ask me about REST APIs, EF Core, JWT auth, or React architecture
 
 <br/>
 
 
 <!-- ═══════════════ 3 · FEATURED PROJECT ═══════════════
-  The single flagship gets its own spotlight block.
-  Swap this block out when a new flagship ships.
+  Flagship spotlight — swap this block when a new one ships.
 -->
 
 ## ⭐ Featured — Lumina Ecommerce
@@ -71,7 +72,7 @@ I build end-to-end web products — from high-performance **.NET** and **Node.js
 <table>
 <tr>
 <td width="300" align="center">
-  <img src="https://github.com/jawadsamiulhaq/jawadsamiulhaq/blob/main/lumina.PNG" width="280" alt="Lumina preview"/>
+  <img src="https://github.com/jawadsamiulhaq/jawadsamiulhaq/blob/main/lumina.PNG?raw=true" width="280" alt="Lumina preview"/>
 </td>
 <td>
 
@@ -83,7 +84,7 @@ I build end-to-end web products — from high-performance **.NET** and **Node.js
 - 🔐 JWT auth with refresh-token rotation
 - ✨ Framer Motion animations throughout
 
-`ASP.NET Core` `EF Core` `SQL Server` `React` `TypeScript` `Stripe`
+<img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white"/> <img src="https://img.shields.io/badge/EF_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white"/> <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white"/> <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white"/>
 
 </td>
 </tr>
@@ -115,54 +116,51 @@ I build end-to-end web products — from high-performance **.NET** and **Node.js
 
 
 <!-- ═══════════════ 5 · TECH STACK ═══════════════
-  Two tiers only: Core (what you'd be hired for) and
-  Toolbox (everything else). Add badges to the right tier;
-  promote/demote by moving one line.
+  skillicons.dev renders crisp animated-feel icon grids.
+  To add a tech: append its id to the i= list (docs:
+  https://skillicons.dev). Core row = hireable skills.
 -->
 
 ## 🧰 Tech Stack
 
+<div align="center">
+
 **Core**
 
-![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+<img src="https://skillicons.dev/icons?i=cs,dotnet,react,ts,nodejs&perline=6" alt="Core stack"/>
+<br/>
+<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server"/>
 
 **Toolbox**
 
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Puppeteer](https://img.shields.io/badge/Puppeteer-40B5A4?style=flat-square&logo=puppeteer&logoColor=white)
+<img src="https://skillicons.dev/icons?i=angular,express,python,mongodb,mysql,graphql,redux,tailwind,bootstrap,js,html,css&perline=6" alt="Toolbox"/>
+
+</div>
 
 <br/>
 
 
 <!-- ═══════════════ 6 · GITHUB STATS ═══════════════
-  Note: streak-stats on herokuapp.com is unreliable —
-  switched to the maintained streak-stats.demolab.com host.
+  Uses github-stats-extended.vercel.app — the actively
+  maintained successor of github-readme-stats (the old
+  domain is rate-limited and no longer maintained).
 -->
 
 ## 📈 GitHub Stats
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=jawadsamiulhaq&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats"/>
+<img height="170" src="https://github-stats-extended.vercel.app/api?username=jawadsamiulhaq&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true&rank_icon=github" alt="GitHub stats"/>
 &nbsp;
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs?username=jawadsamiulhaq&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages"/>
+<img height="170" src="https://github-stats-extended.vercel.app/api/top-langs?username=jawadsamiulhaq&layout=compact&theme=midnight-purple&hide_border=true&langs_count=8" alt="Top languages"/>
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com/?user=jawadsamiulhaq&theme=tokyonight&hide_border=true" alt="Streak"/>
+<img src="https://streak-stats.demolab.com/?user=jawadsamiulhaq&theme=midnight-purple&hide_border=true" alt="Streak"/>
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=jawadsamiulhaq&theme=high-contrast&bg_color=0d1117&color=8E2DE2&line=8E2DE2&point=ffffff&hide_border=true&area=true" width="95%" alt="Contribution graph"/>
 
 </div>
 
@@ -171,12 +169,12 @@ I build end-to-end web products — from high-performance **.NET** and **Node.js
 
 <!-- ═══════════════ 7 · FOOTER ═══════════════ -->
 
----
-
 <div align="center">
 
 **Open to freelance & full-time opportunities**
 
 <a href="mailto:jawad786sami@gmail.com">📧 jawad786sami@gmail.com</a> &nbsp;·&nbsp; <a href="https://jawadsamiulhaq.vercel.app/">🌐 Portfolio</a> &nbsp;·&nbsp; <a href="https://www.linkedin.com/in/jawad-sami-ul-haq-ab2a44217/">💼 LinkedIn</a>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4A00E0,100:8E2DE2&height=120&section=footer" width="100%" alt="footer"/>
 
 </div>
