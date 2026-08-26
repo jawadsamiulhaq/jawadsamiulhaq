@@ -55,7 +55,7 @@
 
 ## 👨‍💻 About Me
 
-Currently working in .NET — building APIs, writing stored procedures, and maintaining enterprise-grade portals. Previously worked with React, Angular, and Python (Pandas, NumPy) across academic and personal projects.
+> I work primarily in **.NET** — building APIs, writing stored procedures, and maintaining enterprise-grade portals — with hands-on experience in **SQL Server** and source-generated application frameworks. Previously worked with **React**, **Angular**, and **Python** (Pandas, NumPy) through academic and personal projects.
 
 - 🔭 Currently shipping with **C#, .NET & SQL Server** in production
 - 🚀 **2+ years** of experience · **10+** delivered projects
