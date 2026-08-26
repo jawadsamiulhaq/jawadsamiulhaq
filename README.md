@@ -61,7 +61,7 @@ I build end-to-end web products — from high-performance **.NET** and **Node.js
 - 🚀 **2+ years** of experience · **10+** delivered projects
 - 🎓 BS Computer Science — University of Agriculture, Faisalabad (UAF)
 - 📍 Sargodha, Pakistan · 🟢 Open to freelance & full-time
-- 💬 Ask me about REST APIs, EF Core, JWT auth, or React architecture
+- 💬 Areas of depth: API architecture · EF Core & database design · JWT/auth flows · React application structure
 
 <br/>
 
