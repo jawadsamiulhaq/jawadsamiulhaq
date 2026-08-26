@@ -30,7 +30,7 @@
 
 # Hi, I'm Jawad Sami Ul Haq 👋
 
-**Full Stack Developer** · .NET · React · Node.js · SQL Server
+**Software Engineer** · .NET · React · Node.js · SQL Server
 
 2+ years of experience · 10+ projects delivered · Open to freelance & full-time
 
