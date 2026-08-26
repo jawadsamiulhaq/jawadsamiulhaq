@@ -55,7 +55,7 @@
 
 ## 👨‍💻 About Me
 
-I build end-to-end web products — from high-performance **.NET** and **Node.js** backends to clean **React** and **Angular** frontends — with a parallel track in data analysis using Python, Pandas, and NumPy.
+Currently working in .NET — building APIs, writing stored procedures, and maintaining enterprise-grade portals. Previously worked with React, Angular, and Python (Pandas, NumPy) across academic and personal projects.
 
 - 🔭 Currently shipping with **C#, .NET & SQL Server** in production
 - 🚀 **2+ years** of experience · **10+** delivered projects
