@@ -1,10 +1,12 @@
 <!-- ============================================================
-  JAWAD SAMI UL HAQ — GitHub Profile README  (v2)
+  JAWAD SAMI UL HAQ — GitHub Profile README  (v3)
   ------------------------------------------------------------
   ARCHITECTURE
   · Sections isolated between ═ comment markers.
   · All links listed once below — search & replace to update.
   · Projects follow one row template (see PROJECTS section).
+  · v3: Hero + Projects simplified — no animated header,
+    no typing SVG, no preview images. Static text only.
   · STATS FIX: github-readme-stats.vercel.app is rate-limited
     and unmaintained. All cards now use the maintained
     successor github-stats-extended.vercel.app (drop-in
@@ -19,29 +21,30 @@
 ============================================================ -->
 
 
-<!-- ═══════════════ 1 · ANIMATED HEADER ═══════════════ -->
+<!-- ═══════════════ 1 · HERO ═══════════════
+  Simple & static — plain heading, one-line tagline,
+  three contact badges. No animations.
+-->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,100:4A00E0&height=200&section=header&text=Jawad%20Sami%20Ul%20Haq&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer&descSize=20&descAlignY=55" width="100%" alt="header"/>
+# Hi, I'm Jawad Sami Ul Haq 👋
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=8E2DE2&center=true&vCenter=true&width=600&lines=.NET+%C2%B7+React+%C2%B7+Node.js+%C2%B7+SQL+Server;Building+end-to-end+web+products;2%2B+years+%C2%B7+10%2B+projects+delivered;Available+for+freelance+work+%F0%9F%9F%A2" alt="typing intro"/>
+**Full Stack Developer** · .NET · React · Node.js · SQL Server
 
-<br/><br/>
-
-<a href="https://jawadsamiulhaq.vercel.app/">
-  <img src="https://img.shields.io/badge/Portfolio-jawadsamiulhaq.vercel.app-8E2DE2?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
-</a>
-<a href="https://www.linkedin.com/in/jawad-sami-ul-haq-ab2a44217/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="mailto:jawad786sami@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Say%20hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
+2+ years of experience · 10+ projects delivered · Open to freelance & full-time
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=jawadsamiulhaq&label=Profile+Views&color=8E2DE2&style=flat-square" alt="Profile views"/>
+<a href="https://jawadsamiulhaq.vercel.app/">
+  <img src="https://img.shields.io/badge/Portfolio-8E2DE2?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio"/>
+</a>
+<a href="https://www.linkedin.com/in/jawad-sami-ul-haq-ab2a44217/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="mailto:jawad786sami@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
+</a>
 
 </div>
 
@@ -63,50 +66,30 @@ I build end-to-end web products — from high-performance **.NET** and **Node.js
 <br/>
 
 
-<!-- ═══════════════ 3 · FEATURED PROJECT ═══════════════
-  Flagship spotlight — swap this block when a new one ships.
--->
-
-## ⭐ Featured — Lumina Ecommerce
-
-<table>
-<tr>
-<td width="300" align="center">
-  <img src="https://github.com/jawadsamiulhaq/jawadsamiulhaq/blob/main/lumina.PNG?raw=true" width="280" alt="Lumina preview"/>
-</td>
-<td>
-
-**Production-style full-stack ecommerce platform**
-
-- 🛒 Fully dynamic catalog — zero hardcoded data
-- 📊 Complete admin dashboard
-- 💳 Stripe checkout integration
-- 🔐 JWT auth with refresh-token rotation
-- ✨ Framer Motion animations throughout
-
-<img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white"/> <img src="https://img.shields.io/badge/EF_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white"/> <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white"/> <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white"/>
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-
-<!-- ═══════════════ 4 · PROJECTS ═══════════════
-  ROW TEMPLATE — copy, fill 4 fields, done:
-  | <a href="LIVE_URL"><img src="IMG_URL" width="170" alt="NAME"/></a> | **[NAME](LIVE_URL)**<br/><sub>ONE-LINE DESCRIPTION</sub> | `TECH` `TECH` |
+<!-- ═══════════════ 3 · PROJECTS ═══════════════
+  Clean text-only table — no preview images.
+  ROW TEMPLATE — copy, fill 3 fields, done:
+  | **[NAME](LIVE_URL)** | ONE-LINE DESCRIPTION | `TECH` `TECH` |
+  (No live link? Use **NAME** without brackets.)
 -->
 
 ## 🚀 Projects
 
-| Preview | Project | Tech |
-|:---:|:---|:---|
-| <a href="https://gemini-clonee.vercel.app/"><img src="https://jawadsamiulhaq.vercel.app/assets/img/portfolio/gemini_ai.jpg" width="170" alt="Gemini Clone"/></a> | **[Gemini Clone](https://gemini-clonee.vercel.app/)**<br/><sub>Functional AI chat interface replicating Google Gemini's UX</sub> | `React` `API` |
-| <img src="https://jawadsamiulhaq.vercel.app/assets/img/portfolio/cgpaa.jpg" width="170" alt="UAF CGPA Calculator"/> | **UAF CGPA Calculator**<br/><sub>University-specific CGPA tool — standout graduation project</sub> | `Angular` |
-| <a href="https://youtube-clone-coral-mu.vercel.app/"><img src="https://jawadsamiulhaq.vercel.app/assets/img/portfolio/yt.jpg" width="170" alt="YouTube Clone"/></a> | **[YouTube Clone](https://youtube-clone-coral-mu.vercel.app/)**<br/><sub>Full UI clone of YouTube with video browsing</sub> | `HTML` `CSS` |
-| <a href="https://coffee-website-eta.vercel.app/"><img src="https://jawadsamiulhaq.vercel.app/assets/img/portfolio/coffee.jpg" width="170" alt="Coffee Shop"/></a> | **[Coffee Shop](https://coffee-website-eta.vercel.app/)**<br/><sub>Responsive landing page for a coffee brand</sub> | `HTML` `CSS` `Bootstrap` |
-| <a href="https://calculator-with-java-script.vercel.app/"><img src="https://jawadsamiulhaq.vercel.app/assets/img/portfolio/calculator.jpg" width="170" alt="Calculator"/></a> | **[Calculator App](https://calculator-with-java-script.vercel.app/)**<br/><sub>Clean, functional calculator with full JS logic</sub> | `JavaScript` `CSS` |
+### ⭐ Lumina Ecommerce — Featured
+
+Production-style full-stack ecommerce platform: fully dynamic catalog with zero hardcoded data, complete admin dashboard, Stripe checkout, and JWT auth with refresh-token rotation.
+
+`ASP.NET Core` `EF Core` `SQL Server` `React` `TypeScript` `Stripe`
+
+### More Projects
+
+| Project | Description | Tech |
+|:---|:---|:---|
+| **[Gemini Clone](https://gemini-clonee.vercel.app/)** | Functional AI chat interface replicating Google Gemini's UX | `React` `API` |
+| **UAF CGPA Calculator** | University-specific CGPA tool — standout graduation project | `Angular` |
+| **[YouTube Clone](https://youtube-clone-coral-mu.vercel.app/)** | Full UI clone of YouTube with video browsing | `HTML` `CSS` |
+| **[Coffee Shop](https://coffee-website-eta.vercel.app/)** | Responsive landing page for a coffee brand | `HTML` `CSS` `Bootstrap` |
+| **[Calculator App](https://calculator-with-java-script.vercel.app/)** | Clean, functional calculator with full JS logic | `JavaScript` `CSS` |
 
 <div align="center">
   <sub>Full live demos → <a href="https://jawadsamiulhaq.vercel.app/">jawadsamiulhaq.vercel.app</a></sub>
@@ -115,8 +98,8 @@ I build end-to-end web products — from high-performance **.NET** and **Node.js
 <br/>
 
 
-<!-- ═══════════════ 5 · TECH STACK ═══════════════
-  skillicons.dev renders crisp animated-feel icon grids.
+<!-- ═══════════════ 4 · TECH STACK ═══════════════
+  skillicons.dev renders crisp static icon grids.
   To add a tech: append its id to the i= list (docs:
   https://skillicons.dev). Core row = hireable skills.
 -->
@@ -140,7 +123,7 @@ I build end-to-end web products — from high-performance **.NET** and **Node.js
 <br/>
 
 
-<!-- ═══════════════ 6 · GITHUB STATS ═══════════════
+<!-- ═══════════════ 5 · GITHUB STATS ═══════════════
   Uses github-stats-extended.vercel.app — the actively
   maintained successor of github-readme-stats (the old
   domain is rate-limited and no longer maintained).
@@ -158,23 +141,17 @@ I build end-to-end web products — from high-performance **.NET** and **Node.js
 
 <img src="https://streak-stats.demolab.com/?user=jawadsamiulhaq&theme=midnight-purple&hide_border=true" alt="Streak"/>
 
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=jawadsamiulhaq&theme=high-contrast&bg_color=0d1117&color=8E2DE2&line=8E2DE2&point=ffffff&hide_border=true&area=true" width="95%" alt="Contribution graph"/>
-
 </div>
 
 <br/>
 
 
-<!-- ═══════════════ 7 · FOOTER ═══════════════ -->
+<!-- ═══════════════ 6 · FOOTER ═══════════════ -->
 
 <div align="center">
 
 **Open to freelance & full-time opportunities**
 
 <a href="mailto:jawad786sami@gmail.com">📧 jawad786sami@gmail.com</a> &nbsp;·&nbsp; <a href="https://jawadsamiulhaq.vercel.app/">🌐 Portfolio</a> &nbsp;·&nbsp; <a href="https://www.linkedin.com/in/jawad-sami-ul-haq-ab2a44217/">💼 LinkedIn</a>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4A00E0,100:8E2DE2&height=120&section=footer" width="100%" alt="footer"/>
 
 </div>
