@@ -42,7 +42,7 @@
 <a href="https://www.linkedin.com/in/jawad-sami-ul-haq-ab2a44217/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
-<a href="mailto:jawad786sami@gmail.com">
+<a href="mailto:jawadsamiulhaq.code@gmail.com">
   <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 
