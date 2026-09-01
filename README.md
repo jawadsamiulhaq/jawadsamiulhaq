@@ -152,6 +152,6 @@ Production-style full-stack ecommerce platform: fully dynamic catalog with zero 
 
 **Open to freelance & full-time opportunities**
 
-<a href="mailto:jawad786sami@gmail.com">📧 jawad786sami@gmail.com</a> &nbsp;·&nbsp; <a href="https://jawadsamiulhaq.vercel.app/">🌐 Portfolio</a> &nbsp;·&nbsp; <a href="https://www.linkedin.com/in/jawad-sami-ul-haq-ab2a44217/">💼 LinkedIn</a>
+<a href="mailto:jawadsamiulhaq.code@gmail.com">📧 jawadsamiulhaq.code@gmail.com</a> &nbsp;·&nbsp; <a href="https://jawadsamiulhaq.vercel.app/">🌐 Portfolio</a> &nbsp;·&nbsp; <a href="https://www.linkedin.com/in/jawad-sami-ul-haq-ab2a44217/">💼 LinkedIn</a>
 
 </div>
