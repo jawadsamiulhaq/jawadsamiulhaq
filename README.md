@@ -16,7 +16,7 @@
   LINKS (single source of truth)
   · Portfolio : https://jawadsamiulhaq.vercel.app
   · LinkedIn  : https://www.linkedin.com/in/jawad-sami-ul-haq-ab2a44217/
-  · Email     : jawad786sami@gmail.com
+  · Email     : jawadsamiulhaq.code@gmail.com
   · Username  : jawadsamiulhaq
 ============================================================ -->
 
